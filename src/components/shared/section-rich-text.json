@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_shared_section_rich_texts",
+  "info": {
+    "displayName": "SectionRichText"
+  },
+  "options": {},
+  "attributes": {
+    "body": {
+      "type": "blocks"
+    }
+  },
+  "config": {}
+}

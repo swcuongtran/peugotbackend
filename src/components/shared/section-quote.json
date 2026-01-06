@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_shared_section_quotes",
+  "info": {
+    "displayName": "SectionQuote",
+    "icon": "quote"
+  },
+  "options": {},
+  "attributes": {
+    "author": {
+      "type": "string"
+    },
+    "quote": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

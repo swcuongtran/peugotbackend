@@ -1,0 +1,27 @@
+{
+    "collectionName": "components_shared_image_sections",
+    "info": {
+        "displayName": "ImageSection",
+        "icon": "picture"
+    },
+    "options": {},
+    "attributes": {
+        "file": {
+            "type": "media",
+            "multiple": false,
+            "allowedTypes": [
+                "images",
+                "files",
+                "videos",
+                "audios"
+            ]
+        },
+        "caption": {
+            "type": "string"
+        },
+        "alt": {
+            "type": "string"
+        }
+    },
+    "config": {}
+}
